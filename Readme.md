@@ -1,9 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Даниил Ентюшов](https://up.htmlacademy.ru/htmlcss-individual/2/user/2598693).
-* Наставник: `Неизвестно`.
-
----
+* Наставник: [Ирина Антипина](https://htmlacademy.ru/profile/id2108789).
+* Сайт:[Мой Проект Седона](https://10x5x.github.io/2598693-sedona-2/)
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
